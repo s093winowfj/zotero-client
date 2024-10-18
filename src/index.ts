@@ -1,5 +1,5 @@
 /// <reference path="./types/zotero-api-client.d.ts" />
-import * as ZoteroApiClient from "zotero-api-client";
+import ZoteroApiClient from "zotero-api-client";
 
 export interface ZoteroOptions {
   authorization?: string;
